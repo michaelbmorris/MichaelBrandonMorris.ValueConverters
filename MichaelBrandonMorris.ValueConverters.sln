@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueConverters", "ValueConverters\ValueConverters.csproj", "{C72075BD-2709-4380-A7C4-A4E3E6C13896}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelBrandonMorris.ValueConverters", "ValueConverters\MichaelBrandonMorris.ValueConverters.csproj", "{C72075BD-2709-4380-A7C4-A4E3E6C13896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

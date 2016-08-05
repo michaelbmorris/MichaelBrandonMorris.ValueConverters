@@ -1,13 +1,17 @@
 ﻿using System;
 using System.Globalization;
+using System.Windows;
+using System.Windows.Controls;
 using System.Windows.Data;
 
 namespace MichaelBrandonMorris.ValueConverters
 {
     /// <summary>
-    ///     Inverts a Boolean value.
+    ///     Unlike the built-in <see cref="BooleanToVisibilityConverter" />, 
+    ///     which uses <see cref="Visibility.Collapsed" /> as the value for 
+    ///     false, this converter uses <see cref="Visibility.Hidden" />.
     /// </summary>
-    public class InverseBooleanConverter : IValueConverter
+    public class BooleanToVisibilityHiddenConverter : IValueConverter
     {
         public object Convert(
             object value,
@@ -15,13 +19,14 @@ namespace MichaelBrandonMorris.ValueConverters
             object parameter,
             CultureInfo culture)
         {
-            if (targetType != typeof(bool))
+            if (targetType != typeof(Visibility))
             {
                 throw new InvalidOperationException(
-                    "The target must be a bool.");
+                    "The target must be a visibility");
             }
 
-            return !(bool) value;
+            var isVisible = (bool) value;
+            return isVisible ? Visibility.Visible : Visibility.Hidden;
         }
 
         public object ConvertBack(
@@ -36,7 +41,8 @@ namespace MichaelBrandonMorris.ValueConverters
                     "The target must be a bool.");
             }
 
-            return !(bool) value;
+            var visibility = (Visibility) value;
+            return visibility == Visibility.Visible;
         }
     }
 }
