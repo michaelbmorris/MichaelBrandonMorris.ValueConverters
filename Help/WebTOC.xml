@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="48486761-a5c9-46aa-a0ce-f44226a78141" Title="MichaelBrandonMorris.ValueConverters Namespace" Url="html/N-MichaelBrandonMorris.ValueConverters.htm">
+    <HelpTOCNode Id="87dc2874-2e77-4fca-8c27-3efa38511942" Title="BooleanToVisibilityHiddenConverter Class" Url="html/T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm">
+      <HelpTOCNode Title="BooleanToVisibilityHiddenConverter Members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+      <HelpTOCNode Id="05e18d90-72b6-454b-9fb6-57c6af094a98" Title="BooleanToVisibilityHiddenConverter Methods" Url="html/Methods.T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm">
+        <HelpTOCNode Title="Convert Method " Url="html/M-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.Convert.htm" />
+        <HelpTOCNode Title="ConvertBack Method " Url="html/M-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.ConvertBack.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4613e319-d1a6-42bf-ab25-ac5f96e5bd04" Title="InverseBooleanConverter Class" Url="html/T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm">
+      <HelpTOCNode Title="InverseBooleanConverter Members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+      <HelpTOCNode Id="d99a37ba-ddfa-4eb3-bb33-71eaac2a4f83" Title="InverseBooleanConverter Methods" Url="html/Methods.T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm">
+        <HelpTOCNode Title="Convert Method " Url="html/M-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.Convert.htm" />
+        <HelpTOCNode Title="ConvertBack Method " Url="html/M-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.ConvertBack.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

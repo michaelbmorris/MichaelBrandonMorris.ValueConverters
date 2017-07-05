@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="BooleanToVisibilityHiddenConverter class">
+    <HelpKINode Title="BooleanToVisibilityHiddenConverter Class" Url="html/T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+    <HelpKINode Title="BooleanToVisibilityHiddenConverter Members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+    <HelpKINode Title="about BooleanToVisibilityHiddenConverter class" Url="html/T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BooleanToVisibilityHiddenConverter.Convert method" Url="html/M-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.Convert.htm" />
+  <HelpKINode Title="BooleanToVisibilityHiddenConverter.ConvertBack method" Url="html/M-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.ConvertBack.htm" />
+  <HelpKINode Title="Convert method">
+    <HelpKINode Title="Convert Method " Url="html/M-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.Convert.htm" />
+    <HelpKINode Title="Convert Method " Url="html/M-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.Convert.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertBack method">
+    <HelpKINode Title="ConvertBack Method " Url="html/M-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.ConvertBack.htm" />
+    <HelpKINode Title="ConvertBack Method " Url="html/M-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.ConvertBack.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InverseBooleanConverter class">
+    <HelpKINode Title="InverseBooleanConverter Class" Url="html/T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+    <HelpKINode Title="InverseBooleanConverter Members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+    <HelpKINode Title="about InverseBooleanConverter class" Url="html/T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InverseBooleanConverter.Convert method" Url="html/M-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.Convert.htm" />
+  <HelpKINode Title="InverseBooleanConverter.ConvertBack method" Url="html/M-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.ConvertBack.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.ValueConverters namespace" Url="html/N-MichaelBrandonMorris.ValueConverters.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter class">
+    <HelpKINode Title="BooleanToVisibilityHiddenConverter Class" Url="html/T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+    <HelpKINode Title="BooleanToVisibilityHiddenConverter Members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.BooleanToVisibilityHiddenConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MichaelBrandonMorris.ValueConverters.InverseBooleanConverter class">
+    <HelpKINode Title="InverseBooleanConverter Class" Url="html/T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+    <HelpKINode Title="InverseBooleanConverter Members" Url="html/AllMembers.T-MichaelBrandonMorris.ValueConverters.InverseBooleanConverter.htm" />
+  </HelpKINode>
+</HelpKI>
